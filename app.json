@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Starlord313/ALNUB",
+  "repository": "https://github.com/RajxOwner/ALNUB",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
